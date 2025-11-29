@@ -1,5 +1,6 @@
 # auto-sales-dashboard
-![Dashboard Preview](./auto-sales-dashboard-pic)
+![Dashboard Preview](./![Sufiyan_Tableau1](https://github.com/user-attachments/assets/0e9e7dba-966b-405f-b6a4-f4fb9775f871)
+)
 Tableau dashboard analzying  auto sales using gender and brand filters.
 This is my Tableau dashboard where I analysed auto sales using simple filters like 
 Gender and Brand. It also includes KPIs and a monthly sales trend.
